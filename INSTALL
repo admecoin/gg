@@ -1,0 +1,9 @@
+Building mtesti
+
+See doc/readme-qt.rst for instructions on building mtesti QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of mtesti.
+
+See doc/build-*.txt for instructions on building mtestid,
+the intended-for-services, no-graphical-interface, reference
+implementation of mtesti.
